@@ -1,4 +1,11 @@
 Problem set:
 
 1. Write a function that verifies a prime number. A prime number is only divisible by itself and 1. 
-2. 
+2. Find all prime factors of a number.
+3. Find the greatest common divisor of two numbers.
+4. Remove duplicate members from an array.
+5. Merge two sorted arrays.
+6. Swap two numbers without using a temporary variable.
+7. Reverse a string.
+8. Reverse words in a sentence.
+9. Reverse words in a string in-place: If you have a string like "I am the good boy". How can you generate "I ma eht doog yob"? Please note that the words are in place but reverse.
