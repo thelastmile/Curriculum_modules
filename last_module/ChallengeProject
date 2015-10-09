@@ -1,1 +1,23 @@
-Pair-Programming Challenge: Build a Calculator
+##Pair-Programming Challenge: Build a Calculator
+
+For this exercise, you will work with a partner to build a calculator in the browser,
+
+There are two equally important goals for this segment:
+1. Learn how to pair program effectively.
+2. Build a working javascript app in the browser from scratch.
+
+## Pair Programming Rules
+Each team will consist of one student from each level. The Level 1 student will be the 'driver'
+for the **entire duration** of the project. This means that the Level 2 student is not allowed to touch
+the mouse or keyboard and must instead talk their way through the entire project.
+
+Being able to effectively communicate about code is as important as being able to write it. 
+Working on a software development team requires excellent communication skills.
+
+
+##Calculator Specifications
+Using HTML/CSS and Jquery, build a calculator that can peform the operatons +, -, * and /.
+It should have buttons for the digits 0-9, a display window that shows the current input, a 'clear' button
+that resets the calculation and a 'return' button that performs the calculation.
+
+This assignment will require everything you've learned so far about javascript, the DOM and HTML/CSS. Good luck!
