@@ -12,7 +12,7 @@ Problem set:
 10. Find the first non repeating char in a string.
 11. Remove duplicate characters from a sting.
 12. Verify a word as palindrome (meaning, it spells the same word backwards and forwards).
-13. Write  a function that generates a random number between 1 to 5.
+13. Write  a function that generates a raalgondom number between 1 to 5.
 14. Given an unsorted array of numbers from 1 to 100 excluding one number, find that missing number.
 Explanation: You have an array of numbers 1 to 100 in an array. Only one number is missing in the array. The array is unsorted. Find the missing number.
 15. Given an unsorted array, check whether there are any two numbers that will sum up to a given number.
